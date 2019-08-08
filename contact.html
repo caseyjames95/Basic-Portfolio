@@ -4,7 +4,11 @@
         <title>Casey Purves Contact</title>
         <h1>Casey Purves</h1>
 
-<br>
+    <hr>
+
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    
+    <br>
 
         <div class="topnav">
             <a class="active" href="index.html">Home</a>
@@ -13,9 +17,36 @@
         </div>
     </head>
     <body>
-        <h2>Contact Information</h2>
-        <p>
+        <h2>Contact Me!</h2>
+        <div class="container">
+            <form action="action_page.php">
+          
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
-        </p>
+    <br>
+          
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+          
+    <br>
+
+            <label for="email">Email</label>
+            <input type="text" id="email" name="email" placeholder="Your Email..">
+
+    <br>
+
+            <label for="phone">Phone</label>
+            <input type="phone" id="phone" name="phone" placeholder="(123)456-7890..">
+
+    <br>
+          
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Write something.." style="width:200px"></textarea>
+          
+            <input type="submit" value="Submit">
+          
+            </form>
+          </div>
     </body>
 </html>
