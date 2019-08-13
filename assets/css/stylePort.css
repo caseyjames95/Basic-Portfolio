@@ -1,0 +1,156 @@
+body {
+    width: 1200px;
+    margin: auto;
+    background-color: lightgray
+}
+
+header {
+    width: 1200px;
+    height: 55px;
+    background-color: whitesmoke;
+    margin-top: 40px;
+
+}
+
+h1 {
+    margin: auto;
+    float: left;
+    margin-left: 100px;
+    background-color: darkcyan;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    font-size: 35px;
+    
+}
+h2 {
+    color:  darkcyan;
+}
+
+.topNav {
+    margin: auto;
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+    font-size: 28px;
+}
+
+.portfolio {
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    background-color: whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 18px;
+}
+
+.proj1 {
+    width: 175px;
+    height: 225px;
+    background-color: aqua;
+    float: left;
+    margin-left: 118.75px;
+    margin-top: 20px;
+}
+
+#ptitle1 {
+    width: 175px;
+    height: 50px;
+    background-color: lightseagreen;
+    margin-top: 155px;
+}
+
+.proj2 {
+    width: 175px;
+    height: 225px;
+    background-color: aqua;
+    float: left;
+    margin-left: 118.75px;
+    margin-top: 20px;
+}
+
+#ptitle2 {
+    width: 175px;
+    height: 50px;
+    background-color: lightseagreen;
+    margin-top: 155px;
+}
+
+.proj3 {
+    width: 175px;
+    height: 225px;
+    background-color: aqua;
+    float: left;
+    margin-left: 118.75px;
+    margin-top: 20px;
+}
+
+#ptitle3 {
+    width: 175px;
+    height: 50px;
+    background-color: lightseagreen;
+    margin-top: 155px;
+}
+
+.proj4 {
+    width: 175px;
+    height: 225px;
+    background-color: aqua;
+    float: left;
+    margin-left: 118.75px;
+    margin-top: 25px;
+}
+
+#ptitle4 {
+    width: 175px;
+    height: 50px;
+    background-color: lightseagreen;
+    margin-top: 155px;
+}
+
+.proj5 {
+    width: 175px;
+    height: 225px;
+    background-color: aqua;
+    float: left;
+    margin-left: 118.75px;
+    margin-top: 25px;
+}
+
+#ptitle5 {
+    width: 175px;
+    height: 50px;
+    background-color: lightseagreen;
+    margin-top: 155px;
+}
+
+.proj6 {
+    width: 175px;
+    height: 225px;
+    background-color: aqua;
+    float: left;
+    margin-left: 118.75px;
+    margin-top: 25px;
+}
+
+#ptitle6 {
+    width: 175px;
+    height: 50px;
+    background-color: lightseagreen;
+    margin-top: 155px;
+}
+
+footer {
+    width: 1000px;
+    height: 55px;
+    background-color: whitesmoke;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
