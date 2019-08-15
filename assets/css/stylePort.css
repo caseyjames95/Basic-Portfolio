@@ -25,11 +25,13 @@ h1 {
     padding-right: 10px;
     padding-top: 8px;
     padding-bottom: 7px;
-    font-size: 35px;
+    font-size: 40px;
     
 }
 h2 {
     color:  darkcyan;
+    font-size: 30px;
+    padding-top: 10px;
 }
 
 .topNav {
@@ -49,7 +51,7 @@ h2 {
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    margin-top: 18px;
+    margin-top: 26px;
 }
 
 .proj1 {
@@ -63,9 +65,12 @@ h2 {
 
 #ptitle1 {
     width: 175px;
-    height: 50px;
+    height: 42px;
     background-color: lightseagreen;
     margin-top: 155px;
+    text-align: center;
+    color: white;
+    font-size: 34px;
 }
 
 .proj2 {
@@ -79,9 +84,12 @@ h2 {
 
 #ptitle2 {
     width: 175px;
-    height: 50px;
+    height: 42px;
     background-color: lightseagreen;
     margin-top: 155px;
+    text-align: center;
+    color: white;
+    font-size: 34px;
 }
 
 .proj3 {
@@ -95,9 +103,12 @@ h2 {
 
 #ptitle3 {
     width: 175px;
-    height: 50px;
+    height: 42px;
     background-color: lightseagreen;
     margin-top: 155px;
+    text-align: center;
+    color: white;
+    font-size: 34px;
 }
 
 .proj4 {
@@ -111,9 +122,12 @@ h2 {
 
 #ptitle4 {
     width: 175px;
-    height: 50px;
+    height: 42px;
     background-color: lightseagreen;
     margin-top: 155px;
+    text-align: center;
+    color: white;
+    font-size: 34px;
 }
 
 .proj5 {
@@ -127,9 +141,12 @@ h2 {
 
 #ptitle5 {
     width: 175px;
-    height: 50px;
+    height: 42px;
     background-color: lightseagreen;
     margin-top: 155px;
+    text-align: center;
+    color: white;
+    font-size: 34px;
 }
 
 .proj6 {
@@ -143,9 +160,12 @@ h2 {
 
 #ptitle6 {
     width: 175px;
-    height: 50px;
+    height: 42px;
     background-color: lightseagreen;
     margin-top: 155px;
+    text-align: center;
+    color: white;
+    font-size: 34px;
 }
 
 footer {
