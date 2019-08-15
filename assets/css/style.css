@@ -53,12 +53,14 @@ h2 {
     height: 185px;
     float: left;
     margin-top: 18px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
 
 }
 
-p {
+#aboutText {
     width: 830px;
-    float: left;
     margin-left: 20px;
     font-size: 18px;
     
