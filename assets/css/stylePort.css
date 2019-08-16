@@ -13,7 +13,6 @@ header {
     height: 55px;
     background-color: whitesmoke;
     margin-top: 40px;
-
 }
 
 h1 {
@@ -38,7 +37,7 @@ h2 {
     margin: auto;
     float: right;
     margin-right: 100px;
-    margin-top: 20px;
+    margin-top: 15px;
     font-size: 28px;
     font-size: 28px;
     text-decoration: none;
@@ -47,6 +46,7 @@ h2 {
 .link {
     text-decoration: none;
 }
+
 .link:hover {
     background-color: black;
 }
@@ -180,6 +180,10 @@ h2 {
     text-align: center;
     color: white;
     font-size: 34px;
+}
+
+#footCopy {
+    margin-top: 20px;
 }
 
 footer {
